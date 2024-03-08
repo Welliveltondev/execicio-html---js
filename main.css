@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container form input {
+    display: block;
+    padding: 5px;
+    margin-top: 2px;
+    background-color: #999999;
+    
+}
+
+button {
+    background-color: #00ff00;
+    padding: 4px;
+    margin-top: 2px;
+
+}
+
+button:hover {
+    background-color: #c0ecc0;
+}
